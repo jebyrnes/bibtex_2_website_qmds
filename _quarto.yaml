@@ -1,0 +1,18 @@
+project:
+  type: website  
+  output-dir: docs
+
+website:
+  title: "bibtex_2_website_qmds"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Publications
+
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true

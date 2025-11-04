@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "bibtex_2_website_qmds",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Year\n      \n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Gordon Pennycook, James Allan Cheyne, Nathaniel Barr, Derek J. Koehler, Jonathan A. Fugelsang\n    (2015)\n    On the reception and detection of pseudo-profound bullshit.\n    Judgment and Decision Making.\n  10:\n  549-563.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n  \n    Doug Zongker\n    (2007)\n    Chicken chicken chicken.\n    Chicken Chicken Chicken Chicken.\n  1:\n  1-3.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n  \n    Brian Witcombe, Dan Meyer\n    (2006)\n    Sword swallowing and its side effects.\n    BMJ.\n  333:\n  1285-1287.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n  \n    Victor Benno Meyer-Rochow, Jozsef Gal\n    (2003)\n    Pressures produced when penguins pooh—calculations on avian defaecation.\n    Polar Biology.\n  27:\n  56-58.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n  \n    Bart GJ Knols\n    (1996)\n    On human odour, malaria mosquitoes, and Limburger cheese.\n    The Lancet.\n  348:\n  1322.\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    Abstract & More » \n    \n    \n   \n  \n    \n    \n    \n    pdf\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    bib\n    \n    \n    \n    \n    \n    \n    url\n    \n    \n    \n  \n  \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "bibtex_2_website_qmds",
+    "section": "",
+    "text": "This site features what your publications could look like once you use the bibtex_2_website_qmds scripts to make a publications section for your academic website.\nCheck out publications"
+  },
+  {
+    "objectID": "index.html#bibtex_2_website_qmds",
+    "href": "index.html#bibtex_2_website_qmds",
+    "title": "bibtex_2_website_qmds",
+    "section": "",
+    "text": "This site features what your publications could look like once you use the bibtex_2_website_qmds scripts to make a publications section for your academic website.\nCheck out publications"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "bibtex_2_website_qmds",
+    "section": "How to use",
+    "text": "How to use\nThis script was developed by exporting a library to bibTeX from Zotero’s desktop app.\n\nMake a quarto website R project. Pull this repo and put the publications directory into your website project. You can remove the folders inside of articles. Add a folder for where you will be exporting your publications.\nMake a library of the entries you want to export. Clean up each entry and make sure it has a pdf where possible. \nExport that library to bibTeX. \nWhen you select export, make sure to export the files as well. \nChoose the subdirectory you created earlier in the publications directory for your export. \nOpen _scripts/runme.R in your publications/ folder. Edit the options so that bibfile is the path to your .bib output. pdf_files_folder_location is the path of the directory that holds another directory inside of it called files. outfold should be the folder where your folders with qmd, bib, and pdf files will live for your website. You can set overwrite to TRUE if this is your first time and it takes a few gos to make everything work right. After that, set it to FALSE so that you don’t accidentally overwrite in the future.\nRun! If it fails, you might have to edit `publications/_scripts/bibtex_2_website_qmds.R’ a bit. Feel free to fork this repo and make fixes that you then issue a pull request for. This is definitely a work in progress.\nOnce things are set to your satisfaction, in publications/_scripts/runme.R set overwrite=FALSE so you don’t accidentally overwrite your hard work. I’d also comment out that section so you cannot run it again.\nIn the future when you add new publications, just export that publication alone as you did for the whole library above. Put in a new set of lines in publications/_scripts/runme.R for JUST this export. Run it to generate new quarto listings and update your website!"
+  },
+  {
+    "objectID": "Readme.html",
+    "href": "Readme.html",
+    "title": "bibtex_2_website_qmds",
+    "section": "",
+    "text": "The tools in this repo should allow folk building an academic or other website with a full listing of publications/citations an easy way to convert a bibTeX file generated by Zotero or other reference source into a set of pages for a [quarto website listing page]. It will also move pdfs over."
+  },
+  {
+    "objectID": "Readme.html#bibtex_2_website_qmds",
+    "href": "Readme.html#bibtex_2_website_qmds",
+    "title": "bibtex_2_website_qmds",
+    "section": "",
+    "text": "The tools in this repo should allow folk building an academic or other website with a full listing of publications/citations an easy way to convert a bibTeX file generated by Zotero or other reference source into a set of pages for a [quarto website listing page]. It will also move pdfs over."
+  },
+  {
+    "objectID": "Readme.html#how-to-use",
+    "href": "Readme.html#how-to-use",
+    "title": "bibtex_2_website_qmds",
+    "section": "How to use",
+    "text": "How to use\nThis script was developed by exporting a library to bibTeX from Zotero’s desktop app.\n\nMake a quarto website R project. Pull this repo and put the publications directory into your website project. You can remove the folders inside of articles. Add a folder for where you will be exporting your publications.\nMake a library of the entries you want to export. Clean up each entry and make sure it has a pdf where possible.\n\nExport that library to bibTeX.\n\nWhen you select export, make sure to export the files as well.\n\nChoose the subdirectory you created earlier in the publications directory for your export.\n\nOpen publications/_scripts/runme.R in your publications/ folder. Edit the options so that bibfile is the path to your .bib output. pdf_files_folder_location is the path of the directory that holds another directory inside of it called files. outfold should be the folder where your folders with qmd, bib, and pdf files will live for your website. You can set overwrite to TRUE if this is your first time and it takes a few gos to make everything work right. After that, set it to FALSE so that you don’t accidentally overwrite in the future.\nRun! If it fails, you might have to edit `publications/_scripts/bibtex_2_website_qmds.R’ a bit. Feel free to fork this repo and make fixes that you then issue a pull request for. This is definitely a work in progress.\nOnce things are set to your satisfaction, in publications/_scripts/runme.R set overwrite=FALSE so you don’t accidentally overwrite your hard work. I’d also comment out that section so you cannot run it again.\nIn the future when you add new publications, just export that publication alone as you did for the whole library above. Put in a new set of lines in publications/_scripts/runme.R for JUST this export. Run it to generate new quarto listings and update your website!"
+  }
+]

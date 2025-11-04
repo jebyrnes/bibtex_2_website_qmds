@@ -1,0 +1,20 @@
+---
+title: "Pressures produced when penguins pooh—calculations on avian defaecation"
+date: "2003"
+year: "2003"
+author: ["Victor Benno Meyer-Rochow", "Jozsef Gal"]
+publication: "Polar Biology"
+volume: "27"
+number: "1"
+pages: "56-58"
+doi: "10.1007/s00300-003-0563-3"
+abstract: "Chinstrap and Adélie penguins generate considerable pressures to propel their faeces away from the edge of the nest. The pressures involved can be approximated if the following parameters are known: (1) distance the faecal material travels before it hits the ground, (2) density and viscosity of the material, and (3) shape, aperture, and height above the ground of the orificium venti. With all of these parameters measured, we calculated that fully grown penguins generate pressures of around 10 kPa (77 mm Hg) to expel watery material and 60 kPa (450 mm Hg) to expel material of higher viscosity similar to that of olive oil. The forces involved, lying well above those known for humans, are high, but do not lead to an energetically wasteful turbulent flow. Whether a bird chooses the direction into which it decides to expel its faeces, and what role the wind plays in this, remain unknown."
+keywords: "Gentoo Penguin, Maximal Distension, Outflow Velocity, Penguin Dropping, Rectal Muscle"
+url: "https://doi.org/10.1007/s00300-003-0563-3"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Polar Biology_2003_10.1007_s00300-003-0563-3/cite.bib"
+pdf: "./articles/Polar Biology_2003_10.1007_s00300-003-0563-3/Meyer-Rochow and Gal - 2003 - Pressures produced when penguins pooh—calculations on avian defaecation.pdf"
+---

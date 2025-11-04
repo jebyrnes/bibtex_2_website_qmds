@@ -1,0 +1,20 @@
+---
+title: "On the reception and detection of pseudo-profound bullshit"
+date: "2015"
+year: "2015"
+author: ["Gordon Pennycook", "James Allan Cheyne", "Nathaniel Barr", "Derek J. Koehler", "Jonathan A. Fugelsang"]
+publication: "Judgment and Decision Making"
+volume: "10"
+number: "6"
+pages: "549-563"
+doi: "10.1017/S1930297500006999"
+abstract: "Although bullshit is common in everyday life and has attracted attention from philosophers, its reception (critical or ingenuous) has not, to our knowledge, been subject to empirical investigation. Here we focus on pseudo-profound bullshit, which consists of seemingly impressive assertions that are presented as true and meaningful but are actually vacuous. We presented participants with bullshit statements consisting of buzzwords randomly organized into statements with syntactic structure but no discernible meaning (e.g., “Wholeness quiets infinite phenomena”). Across multiple studies, the propensity to judge bullshit statements as profound was associated with a variety of conceptually relevant variables (e.g., intuitive cognitive style, supernatural belief). Parallel associations were less evident among profundity judgments for more conventionally profound (e.g., “A wet person does not fear the rain”) or mundane (e.g., “Newborn babies require constant attention”) statements. These results support the idea that some people are more receptive to this type of bullshit and that detecting it is not merely a matter of indiscriminate skepticism but rather a discernment of deceptive vagueness in otherwise impressive sounding claims. Our results also suggest that a bias toward accepting statements as true may be an important component of pseudo-profound bullshit receptivity."
+keywords: "analytic thinking, bullshit, bullshit detection, complementary and alternative medicine, conspiratorial ideation, dual-process theories, religiosity, supernatural beliefs"
+url: "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/Judgment and Decision Making_2015_10.1017_S1930297500006999/cite.bib"
+pdf: "./articles/Judgment and Decision Making_2015_10.1017_S1930297500006999/Pennycook et al. - 2015 - On the reception and detection of pseudo-profound bullshit.pdf"
+---

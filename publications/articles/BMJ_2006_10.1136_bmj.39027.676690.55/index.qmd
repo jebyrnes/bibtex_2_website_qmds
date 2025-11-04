@@ -1,0 +1,25 @@
+---
+title: "Sword swallowing and its side effects"
+date: "2006"
+year: "2006"
+author: ["Brian Witcombe", "Dan Meyer"]
+publication: "BMJ"
+volume: "333"
+number: "7582"
+pages: "1285-1287"
+doi: "10.1136/bmj.39027.676690.55"
+abstract: "Objective To evaluate information on the practice and associated ill effects of sword swallowing.
+Design Letters sent to sword swallowers requesting information on technique and complications.
+Setting Membership lists of the Sword Swallowers' Association International.
+Participants 110 sword swallowers from 16 countries.
+Results We had information from 46 sword swallowers. Major complications are more likely when the swallower is distracted or swallows multiple or unusual swords or when previous injury is present. Perforations mainly involve the oesophagus and usually have a good prognosis. Sore throats are common, particularly while the skill is being learnt or when performances are too frequent. Major gastrointestinal bleeding sometimes occurs, and occasional chest pains tend to be treated without medical advice. Sword swallowers without healthcare coverage expose themselves to financial as well as physical risk.
+Conclusions Sword swallowers run a higher risk of injury when they are distracted or adding embellishments to their performance, but injured performers have a better prognosis than patients who suffer iatrogenic perforation."
+keywords: "NA"
+url: "https://www.bmj.com/content/333/7582/1285"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/BMJ_2006_10.1136_bmj.39027.676690.55/cite.bib"
+pdf: "./articles/BMJ_2006_10.1136_bmj.39027.676690.55/Witcombe and Meyer - 2006 - Sword swallowing and its side effects.pdf"
+---

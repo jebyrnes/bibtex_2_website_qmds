@@ -1,0 +1,77 @@
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="listing-author "><%= item.author %></span>
+    <span class="listing-year">(<%= item.year%>)</span>
+    <span class="listing-title fw-bold"><%= item.title %>.</span>
+    <span class="listing-publication fst-italic "><%= item.publication %>.</span>
+  <span class="listing-volume "><%= item.volume %>:</span>
+  <span class="listing-pages "><%= item.pages %>.</span>
+    </br>
+    
+    <div class="d-grid d-md-flex d-small justify-content-md-end">
+    
+    <% if (item.url_preprint) { %>
+    <a href="<%- item.pdf %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-card-text"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    preprint</button>
+    </a>
+    <% } %>
+    
+    <% if (item.path) { %>
+    <a href="<%- item.path %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-list-task"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    Abstract & More » </button>
+    </a>
+    <% } %>
+   
+  
+    <% if (item.pdf) { %>
+    <a href="<%- item.pdf %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-file-earmark-pdf"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    pdf</button>
+    </a>
+    <% } %>
+    
+    <% if (item.url_code) { %>
+    <a href="<%- item.url_code %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-github"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    code</button>
+    </a>
+    <% } %>
+    
+    <% if (item.url_dataset) { %>
+    <a href="<%- item.url_dataset %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-clipboard-data"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    data</button>
+    </a>
+    <% } %>
+    
+    <% if (item.bib) { %>
+    <a href="<%- item.bib %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-blockquote-left"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    bib</button>
+    </a>
+    <% } %>
+    
+    <% if (item.url) { %>
+    <a href="<%- item.url %>"
+    <button class="btn btn-secondary btn-sm">
+    <i class="bi bi-link"  target="_blank"  rel="noopener noreferrer" style="font-size: 1rem"></i>
+    url</button>
+    </a>
+    <% } %>
+    
+  </div>
+  <hr width="100%" size="2" color="blue" noshade>
+  </li>
+<% } %>
+</ul>
+```

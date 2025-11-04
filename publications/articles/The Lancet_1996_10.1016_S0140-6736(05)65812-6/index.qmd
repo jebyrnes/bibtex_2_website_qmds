@@ -1,0 +1,20 @@
+---
+title: "On human odour, malaria mosquitoes, and Limburger cheese"
+date: "1996"
+year: "1996"
+author: ["Bart GJ Knols"]
+publication: "The Lancet"
+volume: "348"
+number: "9037"
+pages: "1322"
+doi: "10.1016/S0140-6736(05)65812-6"
+abstract: "NA"
+keywords: "NA"
+url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)65812-6/fulltext"
+image: featured.png    
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: "./articles/The Lancet_1996_10.1016_S0140-6736(05)65812-6/cite.bib"
+pdf: "./articles/The Lancet_1996_10.1016_S0140-6736(05)65812-6/Knols - 1996 - On human odour, malaria mosquitoes, and Limburger cheese.pdf"
+---
