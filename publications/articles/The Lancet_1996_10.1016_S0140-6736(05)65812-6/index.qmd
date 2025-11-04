@@ -8,7 +8,8 @@ volume: "348"
 number: "9037"
 pages: "1322"
 doi: "10.1016/S0140-6736(05)65812-6"
-abstract: "NA"
+abstract: "Wouldn't it be something, having a simple mosquito trap in one's bedroom baited with a scent that best be described as synthetic human? No buzzing, no sleepless nights, and, more importantly, a new tool to interrupt the transmission of important vector-borne diseases such as malaria...
+	issn = 0140-6736, 1474-547X"
 keywords: "NA"
 url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)65812-6/fulltext"
 image: featured.png    

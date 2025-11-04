@@ -2,9 +2,7 @@
 title: "bibtex_2_website_qmds"
 ---
 
-## bibtex_2_website_qmds
-
-This site features what your publications could look like once you use the `bibtex_2_website_qmds` scripts to make a publications section for your academic website.
+This site features what your publications could look like once you use the `bibtex_2_website_qmds` scripts to make a publications section for your academic website. You can download the repository and use its tools from [it's github repo](https://github.com/jebyrnes/bibtex_2_website_qmds).  
 
 Check out [publications](./publications/)
 

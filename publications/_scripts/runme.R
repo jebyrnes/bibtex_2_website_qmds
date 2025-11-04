@@ -1,5 +1,5 @@
 # Load the functions
-source("publications/bibtex_2_website_qmds.R")
+source("publications/_scripts/bibtex_2_website_qmds.R")
 
 
 # Run and format library

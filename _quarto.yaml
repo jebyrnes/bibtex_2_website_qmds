@@ -10,9 +10,17 @@ website:
         text: Home
       - href: publications/index.qmd
         text: Publications
+    tools:
+      - icon: github
+        menu:
+          - text: Repository
+            href:  https://github.com/jebyrnes/bibtex_2_website_qmds
+          - text: Report a Bug
+            href:  https://github.com/jebyrnes/bibtex_2_website_qmds/issues
+
+
 
 format:
   html:
     theme: morph
-    css: styles.css
     toc: true
